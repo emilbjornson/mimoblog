@@ -1,6 +1,9 @@
 % Demonstration of out-of-band radiation in Massive MIMO
 % using real amplifier in the lab, through WebLab
 %
+% It was used in the blog post "Massive MIMO Hardware Distortion Measured in the Lab"
+% https://ma-mimo.ellintech.se/2018/05/30/massive-mimo-hardware-distortion-measured-in-the-lab/ 
+%
 % For theory, see https://arxiv.org/pdf/1802.02475.pdf
 % For WebLab, see http://dpdcompetition.com/rfweblab/
 %
