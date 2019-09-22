@@ -1,5 +1,8 @@
 % Illustration of the effect of beamforming when using a distributed array
 %
+% It was used in the blog post "Beamforming From Distributed Arrays"
+% https://ma-mimo.ellintech.se/2019/01/25/beamforming-from-distributed-arrays/
+%
 % Emil Björnson, 2019
 % emil.bjornson@liu.se
 
